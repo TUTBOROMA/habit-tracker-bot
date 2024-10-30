@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "poetry add fastapi sqlalchemy psycopg2 alembic pydantic[dotenv] python-jose"
+version = "0.1.0"
+description = "n"
+authors = ["Your Name <you@example.com>"]
+license = "n"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "n"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
